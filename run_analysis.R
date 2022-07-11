@@ -35,5 +35,5 @@ sub_test <- read.table("UCI HAR Dataset/test/subject_test.txt")
 sub <- rbind(sub_train, sub_test)
 Subject <- sub$V1
 Activity <- y$label
-act_sub_mean <- aggregate(.~Activity+Subject, x, mean)
+act_sub_mean <- aggregate(.~Activity+Subject, mean_std, mean)
 
