@@ -40,12 +40,12 @@ fBodyGyro-XYZ\
 fBodyAccMag\
 fBodyAccJerkMag\
 fBodyGyroMag\
-fBodyGyroJerkMag\
+fBodyGyroJerkMag
 
-The set of variables that were estimated from these signals are: \
+The set of variables that were estimated from these signals are: 
 
 mean(): Mean value\
-std(): Standard deviation\
+std(): Standard deviation
 
 ## List of variables
 Activity\
