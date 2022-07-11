@@ -5,3 +5,7 @@ In this project, I wrote a code to extract the mean and standard deviation of th
 
 The repository includes the following files:\
 - README.md
+- CodeBook.md
+- run_analysis.R
+
+
