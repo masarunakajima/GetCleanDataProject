@@ -31,3 +31,4 @@ The columns of `mean_std` are replaced by the corresponding variable names in `f
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.\
 The suject ID information is loaded for the train and test dataset and merged. 
 `aggregate` function is used to get the mean for each variable while indexing by activity type and subject id.
+The final result is saved in the dataframe `act_sub_mean`
