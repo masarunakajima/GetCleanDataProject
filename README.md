@@ -9,7 +9,7 @@ The repository includes the following files:
 - CodeBook.md : Describes the variables used
 - run_analysis.R : The main analysis script
 
-##Script
+## Script
 
 The script first requires dplyr packages.\
 It first loads the train and test data sets.
