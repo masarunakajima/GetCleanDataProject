@@ -9,6 +9,13 @@ The repository includes the following files:
 - CodeBook.md : Describes the variables used
 - run_analysis.R : The main analysis script
 
+##Script
 
+The script first requires dplyr packages.\
+It first loads the train and test data sets.
 
+1. Merges the training and the test sets to create one data set. \
+The train and test datasets are merged and saved in variables x and y.
+
+2. Extracts only the measurements on the mean and standard deviation for each measurement.
 
